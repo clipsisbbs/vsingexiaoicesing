@@ -1,4 +1,4 @@
-# VsingerXiaoIceSing (Diffsinger ClipsisBBS maintained version)
+# VsingerXiaoIceSing (Diffsinger YunMuBBS maintained version)
 
 It is a fork of [Diffsinger OpenVPI maintained version](https://github.com/openvpi/DiffSinger)
 
